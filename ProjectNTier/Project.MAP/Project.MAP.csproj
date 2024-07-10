@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="AutoMapper" Version="13.0.1" />
+      <PackageReference Include="EntityFramework" Version="6.5.0-preview2-24180-01" />
+      <PackageReference Include="MailKitLite" Version="4.7.0" />
+      <PackageReference Include="MimeKit" Version="4.7.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Project.ENTITIES\Project.ENTITIES.csproj" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+/Users/yunuspektas/Desktop/NTierArchitecture/ProjectNTier/Project.MAP/bin/Debug/net8.0/Project.MAP.deps.json
+/Users/yunuspektas/Desktop/NTierArchitecture/ProjectNTier/Project.MAP/bin/Debug/net8.0/Project.MAP.runtimeconfig.json
+/Users/yunuspektas/Desktop/NTierArchitecture/ProjectNTier/Project.MAP/bin/Debug/net8.0/Project.MAP.dll
+/Users/yunuspektas/Desktop/NTierArchitecture/ProjectNTier/Project.MAP/bin/Debug/net8.0/Project.MAP.pdb
+/Users/yunuspektas/Desktop/NTierArchitecture/ProjectNTier/Project.MAP/bin/Debug/net8.0/Project.ENTITIES.dll
+/Users/yunuspektas/Desktop/NTierArchitecture/ProjectNTier/Project.MAP/bin/Debug/net8.0/Project.ENTITIES.pdb
+/Users/yunuspektas/Desktop/NTierArchitecture/ProjectNTier/Project.MAP/obj/Debug/net8.0/Project.MAP.csproj.AssemblyReference.cache
+/Users/yunuspektas/Desktop/NTierArchitecture/ProjectNTier/Project.MAP/obj/Debug/net8.0/Project.MAP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yunuspektas/Desktop/NTierArchitecture/ProjectNTier/Project.MAP/obj/Debug/net8.0/Project.MAP.AssemblyInfoInputs.cache
+/Users/yunuspektas/Desktop/NTierArchitecture/ProjectNTier/Project.MAP/obj/Debug/net8.0/Project.MAP.AssemblyInfo.cs
+/Users/yunuspektas/Desktop/NTierArchitecture/ProjectNTier/Project.MAP/obj/Debug/net8.0/Project.MAP.csproj.CoreCompileInputs.cache
+/Users/yunuspektas/Desktop/NTierArchitecture/ProjectNTier/Project.MAP/obj/Debug/net8.0/Project..DAFEDFE3.Up2Date
+/Users/yunuspektas/Desktop/NTierArchitecture/ProjectNTier/Project.MAP/obj/Debug/net8.0/Project.MAP.dll
+/Users/yunuspektas/Desktop/NTierArchitecture/ProjectNTier/Project.MAP/obj/Debug/net8.0/refint/Project.MAP.dll
+/Users/yunuspektas/Desktop/NTierArchitecture/ProjectNTier/Project.MAP/obj/Debug/net8.0/Project.MAP.pdb
+/Users/yunuspektas/Desktop/NTierArchitecture/ProjectNTier/Project.MAP/obj/Debug/net8.0/Project.MAP.genruntimeconfig.cache
+/Users/yunuspektas/Desktop/NTierArchitecture/ProjectNTier/Project.MAP/obj/Debug/net8.0/ref/Project.MAP.dll

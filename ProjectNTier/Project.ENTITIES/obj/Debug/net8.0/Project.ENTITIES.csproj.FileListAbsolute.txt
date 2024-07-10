@@ -1,0 +1,12 @@
+/Users/yunuspektas/Desktop/NTierArchitecture/ProjectNTier/Project.ENTITIES/bin/Debug/net8.0/Project.ENTITIES.deps.json
+/Users/yunuspektas/Desktop/NTierArchitecture/ProjectNTier/Project.ENTITIES/bin/Debug/net8.0/Project.ENTITIES.dll
+/Users/yunuspektas/Desktop/NTierArchitecture/ProjectNTier/Project.ENTITIES/bin/Debug/net8.0/Project.ENTITIES.pdb
+/Users/yunuspektas/Desktop/NTierArchitecture/ProjectNTier/Project.ENTITIES/obj/Debug/net8.0/Project.ENTITIES.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yunuspektas/Desktop/NTierArchitecture/ProjectNTier/Project.ENTITIES/obj/Debug/net8.0/Project.ENTITIES.AssemblyInfoInputs.cache
+/Users/yunuspektas/Desktop/NTierArchitecture/ProjectNTier/Project.ENTITIES/obj/Debug/net8.0/Project.ENTITIES.AssemblyInfo.cs
+/Users/yunuspektas/Desktop/NTierArchitecture/ProjectNTier/Project.ENTITIES/obj/Debug/net8.0/Project.ENTITIES.csproj.CoreCompileInputs.cache
+/Users/yunuspektas/Desktop/NTierArchitecture/ProjectNTier/Project.ENTITIES/obj/Debug/net8.0/Project.ENTITIES.dll
+/Users/yunuspektas/Desktop/NTierArchitecture/ProjectNTier/Project.ENTITIES/obj/Debug/net8.0/refint/Project.ENTITIES.dll
+/Users/yunuspektas/Desktop/NTierArchitecture/ProjectNTier/Project.ENTITIES/obj/Debug/net8.0/Project.ENTITIES.pdb
+/Users/yunuspektas/Desktop/NTierArchitecture/ProjectNTier/Project.ENTITIES/obj/Debug/net8.0/ref/Project.ENTITIES.dll
+/Users/yunuspektas/Desktop/NTierArchitecture/ProjectNTier/Project.ENTITIES/obj/Debug/net8.0/Project.ENTITIES.csproj.AssemblyReference.cache

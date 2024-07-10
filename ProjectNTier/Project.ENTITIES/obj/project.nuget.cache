@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "I9ivc+wwS9IMk4P7hDnYn4xSVRfhYlZ7IPlWO7pPbByA4LHC68VubSeVqH7rQydk9Qc/8hj5s+gyQBENOjzrxQ==",
+  "success": true,
+  "projectFilePath": "/Users/yunuspektas/Desktop/NTierArchitecture/ProjectNTier/Project.ENTITIES/Project.ENTITIES.csproj",
+  "expectedPackageFiles": [
+    "/Users/yunuspektas/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
+    "/Users/yunuspektas/.nuget/packages/bouncycastle.cryptography/2.4.0/bouncycastle.cryptography.2.4.0.nupkg.sha512",
+    "/Users/yunuspektas/.nuget/packages/mailkitlite/4.7.0/mailkitlite.4.7.0.nupkg.sha512",
+    "/Users/yunuspektas/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/yunuspektas/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/yunuspektas/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/yunuspektas/.nuget/packages/mimekit/4.7.0/mimekit.4.7.0.nupkg.sha512",
+    "/Users/yunuspektas/.nuget/packages/mimekitlite/4.7.0/mimekitlite.4.7.0.nupkg.sha512",
+    "/Users/yunuspektas/.nuget/packages/system.formats.asn1/8.0.0/system.formats.asn1.8.0.0.nupkg.sha512",
+    "/Users/yunuspektas/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/yunuspektas/.nuget/packages/system.security.cryptography.pkcs/8.0.0/system.security.cryptography.pkcs.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
